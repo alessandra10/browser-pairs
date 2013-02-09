@@ -154,8 +154,8 @@ body {
 
 /* :hover styles are applied when the user's mouse hovers over the element */
 .button:hover {
-  background: #F26522 !important;
-  color: #FBDD9B;
+  background: #88C1A9 !important;
+  color: #white;
   cursor: pointer;
 }
 
@@ -223,7 +223,7 @@ body {
 }
 
 .face {
-  width: 100%;
+  width: 75%;
   height: 100%;
   position: absolute;
   -webkit-transition-property: opacity, transform, box-shadow;
