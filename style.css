@@ -150,7 +150,7 @@ body {
 /* :hover styles are applied when the user's mouse hovers over the element */
 .button:hover {
   background: #88C1A9 !important;
-  color: #white;
+  color: white;
   cursor: pointer;
 }
 
